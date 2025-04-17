@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "b4a": "1.6.7",
+    "hyperdht": "6.20.5"
+  }
+}

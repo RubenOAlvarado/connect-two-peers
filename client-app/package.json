@@ -1,0 +1,16 @@
+{
+  "name": "client-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "b4a": "1.6.7",
+    "hyperdht": "6.20.5"
+  }
+}
